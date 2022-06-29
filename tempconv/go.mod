@@ -1,3 +1,3 @@
-module example.com/ch2/tempconv
+module github.com/GureisuTear/learning_go/tempconv
 
 go 1.17
