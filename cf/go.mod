@@ -1,3 +1,3 @@
-module example.com/ch2/cf
+module github.com/GureisuTear/learning_go/cf
 
 go 1.17
