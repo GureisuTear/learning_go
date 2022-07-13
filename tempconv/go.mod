@@ -1,3 +1,3 @@
-module github.com/GureisuTear/learning_go/tempconv
+module github.com/learning_go/tempconv
 
 go 1.17
